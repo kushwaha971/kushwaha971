@@ -1,49 +1,61 @@
 # Hi, I'm Akash Kushwaha
 
-**AI Full Stack Engineer | React, Next.js, TypeScript, Node.js and Python**
+**AI Full-Stack Engineer | AI Engineer | React, Next.js, TypeScript, Python and Node.js**
+
+I have 4 years of experience building production SaaS products, backend services, and applied AI workflows. I work across frontend, APIs, data, and delivery, with a focus on useful products and changes that are reviewed and validated before release.
 
 [Portfolio](https://akashtech.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/akash-kushwaha-250949224/) · [Email](mailto:kushwahaakash971@gmail.com)
 
-I build production SaaS applications, reusable UI foundations and practical AI tools. My 3.5+ years of software development experience spans frontend interfaces, backend APIs, database workflows and delivery.
-
-## What I build
+## Selected Work
 
 ### [ml-uikit](https://www.npmjs.com/package/ml-uikit) — React and TypeScript component library
-- Built and published reusable components on shadcn/ui and Radix UI, with typed APIs, theming and Storybook documentation.
-- Added phone, date-range and search inputs, typography, pagination, forms and sidebar patterns with customizable Tailwind styling and dark mode.
-- Configured ES-module/CommonJS distribution, TypeScript declarations, externalized dependencies and tree-shaking, with Storybook accessibility and Vitest/Playwright tooling.
 
-### [YourKhata](https://yourkhata.com/) — Business management platform
-I'm building YourKhata to bring ledgers, GST billing, inventory, expenses and payment records into connected workflows.
-- Own requirements, architecture, UI design, React/Next.js and TypeScript development, Django REST APIs and PostgreSQL workflows.
-- Build separate business books, role-based access, traceable corrections, PDF statements, CSV portability and direct-to-business UPI QR flows.
-- Containerized deployment on Railway with Nginx routing, frontend/backend services and scheduled jobs.
-- Implemented SEO/GEO foundations through solution pages, metadata, canonicals, robots/sitemaps, visible FAQs and matching JSON-LD; configured Search Console and GA4.
-- Use AI assistants for specification refinement, implementation, debugging and test exploration while reviewing changes and owning engineering decisions.
+- Built and published reusable components using shadcn/ui and Radix UI foundations, with typed APIs, theming, and Storybook documentation.
+- Added phone, date-range, search, form, pagination, and sidebar components with customizable Tailwind styling and dark mode.
+- Configured ESM/CommonJS packages, TypeScript declarations, externalized dependencies, and tree-shaking; added accessibility and Vitest/Playwright tooling.
 
-### Bug Buster — OpenAI API + Jira API
-Built an AI-powered tool to analyse reported Jira bugs and suggest fixes, supporting repeatable investigation and resolution workflows.
+### [YourKhata](https://yourkhata.com/) — Independently built multi-tenant product
+
+- Building connected customer-ledger, invoicing, inventory, expense, and payment workflows for multiple businesses.
+- Own product discovery, requirements, workflow design, React/Next.js and TypeScript interfaces, Django REST APIs, PostgreSQL data, and deployment.
+- Implemented business data separation, role-based access, traceable corrections, PDF statements, CSV portability, and payment flows.
+- Built technical SEO/GEO foundations with metadata, canonical URLs, robots and sitemap files, structured data, and FAQ content; reached PageSpeed 99+ desktop and 90+ mobile.
+
+### Generative AI Job-Application Assistant
+
+- Built a workflow that compares candidate profiles with job descriptions and produces structured role-fit and skill-gap summaries.
+- Added LLM-generated, tailored application responses and documents for candidate review before use.
+- Built with Next.js, TypeScript, PostgreSQL, Prisma, and Docker, using a configurable LLM provider.
 
 ### [Sci-WebHub](https://github.com/kushwaha971/Sci-webhub) — Deployment platform
-Built backend services and database workflows for GitHub-based builds, deployment tracking, logs and version history with Next.js, Node.js and PostgreSQL.
 
-## Professional experience
+Built backend services and data workflows for GitHub-based builds, deployment tracking, logs, and version history using Next.js, Node.js, and PostgreSQL.
 
-**The Branding Club — Brandhub**
-Owned customer portal, ordering and billing workflows for a B2B SaaS platform serving 8,000+ brands across four European markets. Worked across React/Next.js, TypeScript, Node.js/Django APIs and PostgreSQL. Helped reduce page load time by 50% and achieve 90+ Lighthouse scores. Used Claude, Codex and MCP in documentation-first engineering workflows.
+## Professional Experience
 
-**Onelab Ventures**
-Contributed to enterprise software for NSE-Corpository and Reliance Foundation, including API-backed workflows, security controls, on-premise deployments and production support. Refactored shared logic to reduce code duplication from 27% to 13%.
+### The Branding Club — Brandhub
+
+Build and maintain a production B2B SaaS platform serving 8,000+ brands across four European markets. Work on customer portal, ordering, billing, and finance workflows across React/Next.js, TypeScript, Node.js/Django APIs, and PostgreSQL.
+
+- Built an LLM assistant that answers natural-language questions using company data, retrieving relevant context through RAG and vector search before generating grounded responses.
+- Integrated OpenAI and Gemini APIs and contributed to prompt and multi-agent workflows for internal use cases.
+- Contributed to RAG-assisted content workflows that reduced manual content effort by 70% as a team outcome.
+- Improved page-load time by 50% and achieved Lighthouse scores above 90.
+- Use Claude Code, Codex, and MCP for code exploration and debugging; review generated changes and validate behavior before release.
+
+### Onelab Ventures
+
+Contributed to enterprise software for NSE-Corpository and Reliance Foundation, including API-backed workflows, security controls, on-premise deployments, and production support. Refactored shared logic, reducing code duplication from 27% to 13%.
 
 ## Skills
 
-| Area | Technologies |
-| --- | --- |
-| AI & automation | LangChain, RAG pipelines, LLM integration, OpenAI APIs, Gemini APIs, Claude Code, multi-agent systems, prompt engineering, vector databases, MCP, Codex |
+| Focus | Technologies |
+|---|---|
+| AI engineering | Python, FastAPI, LangChain, RAG, LLM integration, OpenAI and Gemini APIs, prompt engineering, vector databases, agentic and multi-agent systems, MCP |
 | Frontend | React, Next.js, TypeScript, JavaScript, Redux Toolkit, HTML/CSS, Tailwind CSS, Material UI, Storybook |
-| Backend & data | Node.js, Express, Django/DRF, REST APIs, PostgreSQL, MongoDB, MySQL |
-| Delivery | Docker, Railway, Nginx, Git/GitHub, Playwright, code reviews, performance optimization, technical SEO/GEO |
+| Backend and data | Node.js, Express, Django/DRF, REST APIs, PostgreSQL, MongoDB, MySQL |
+| Delivery | Docker, Railway, Nginx, Git/GitHub, Playwright, code review, performance optimization, technical SEO/GEO |
 
 ## Let's connect
 
-I'm interested in AI full-stack and product engineering roles where I can own useful features from requirements through release.
+I'm interested in AI full-stack and product-engineering roles where I can own useful features from requirements through release.
